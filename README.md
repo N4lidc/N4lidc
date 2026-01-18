@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a computer science student from Denmark, currently in my fifth semester!</p>
+<p align="left">I'm a computer science student from Denmark, currently in my 6th semester!</p>
 
 ###
 
